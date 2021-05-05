@@ -2607,3 +2607,18 @@ body > article {
   font-size: 22px;
   line-height: 35px;
 }
+
+#idealJobsTable, #idealJobsTable td, #idealJobsTable th{
+  border: black 1px solid;
+  text-align: left;
+  background-color: white;
+}
+
+#idealJobsTable td{
+  padding: 13px;
+}
+
+#idealJobsTable th {
+  font-weight: bold;
+  text-align: center;
+}
